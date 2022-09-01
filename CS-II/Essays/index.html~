@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Essays</title>
+    <style>
+      body{background-color:palegreen}
+      h1{color:maroon;font-size:200%}
+      p{color:black;font-size:150%}
+    </style>
+  </head>
+
+  <h1>Essays</h1>
+
+  <p>Here you will find the links for all CS-II essays</p>
+
+  <a href="./Fingerprints.html">
