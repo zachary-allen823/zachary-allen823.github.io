@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Fingerprints</title>
+    <style>
+      body{background-color:palegreen}
+
+      h1{font-color:maroon;font-size:200%}
+      p{font-color:black;font-size:150%}
+    </style>
+  </head>
+
+  <h1>Fingerprints</h1>
+
+</html>
