@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Projects Index</title>
+    <style>
+      body{background-color:darkorange}
+      h1{color:yellow;font-size:200%}
+      h2{color:lightgreen;font-size:200%}
+      p{color:white;font-size:150%}
+    </style>
+  </head>
+
+  <h1>Projects Index</h1>
+
+  <p>Here you will find links to coding projects</p>
+
+  <a href="./Optimal Sort.html">Optimal Sort</a>
