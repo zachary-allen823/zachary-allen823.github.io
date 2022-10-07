@@ -16,7 +16,11 @@
     
     <iframe src="https://codermerlin.com/users/jacob-jershin/Digital%20Portfolio/CS-III/Projects/Optimal%20Sort.drawio.html" width="640" height="480" allow="autoplay"></iframe> 
     
-    
+    <br>
+    <h2><u>Graphs explained</u></h2>
+    <p>In my graphs, the ordered lists were the only ones that seemed to be able to be sorted when it came to the lists with 100,000 words. This is most likely due to the fact that they are the closest to being sorted as opposed to reverse ordered and random lists took longer especially on longer lists. For the most part, insertion sort was very efficient but there is a noticeable jump in time with the ordered at the 1000 word mark. My best guess is there is some amount of human error involved because the reverse and random lists at that word count have very similar times. I did notice that when I did my first test of a session, the computer would have a strangely longer execution time and in later sessions I would run it a couple of times to make sure and after a few runs it would return to running at a consistent speed. Therefore, it is safe to assume I did not do this as this was done in an early session of testing. Human error is further supported because after the ordered graph has a higher time than the other two at the 1000 word mark, it proceeds to have a significantly lower time than the other two at the 10,000 mark and as stated before, was the only of the three that could sort 100,000 words.</p>
+    <p>When it came to selection sort, the graphs of each type of list are practically overlapping each other. However, once again, the ordered list is the only one that managed to be sorted with 100,000 words but even then, it was bordering on timing out and did on a few occasions. However, I find that up to ten thousand words, selection sort is the most consistent and if the code was optimized a little bit, I'm sure that the trend would continue. The lines overlapping so much with selection sort is most likely due to the fact that selection sort eliminates indexes from being sortable as it goes and therefore each list runs at very similar speeds.</p>
+    <p>Lastly there is bubble sort. Bubble sort, while being simple and great for shorter lists, simply isn't efficient enough for sorting large lists. Out of all three sort types, it had the longest sort times for lists with 10,000 words. Obviously, the ordered lists were the easiest and quickest to sort due to it being closest to correct. However, random took so long because there was so much shifting that had to take place. Still, bubble sort is definitely a good choice for the short lists as reflected by its low times, but the fact that it is unable to sort large lists without timing out is telling that it is better being kept to those small lists.</p>
     
     <br>
     <button class="projects"; onclick = "window.location.href='https://github.com/JacobJershin/JacobJershin.github.io/blob/main/CS-III/Projects/Optimal%20Sort.html';">github link for code</button>
@@ -26,6 +30,15 @@
     <button class="projects"; onclick = "window.location.href='https://docs.google.com/spreadsheets/d/1bm7ZzDUjxjkI7R3t2rWKtxhX6rYM3v3zXEbpCxzlQ0o/edit#gid=0';">link to averages sheet of optimizations</button>
     <br>
     <button class="projects"; onclick = "window.location.href='./index.html';">Projects Index</button>
+    <br>
+    <button class="projects"; onclick = "window.location.href='https://github.com/zachary-allen823/Insertion-Sort';">Insertion Sort Repository</button>
+    <br>
+    <button class="projects"; onclick = "window.location.href='https://github.com/zachary-allen823/Bubble-Sort';">Bubble Sort Repository</button>
+    <br>
+    <button class="projects"; onclick = "window.location.href='https://github.com/zachary-allen823/Selection-Sort';">Slection Sort Repository</button>
+    
+    
+
   </body>
 </html>
 
