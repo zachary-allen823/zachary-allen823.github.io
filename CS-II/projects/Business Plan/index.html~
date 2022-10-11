@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Business Plan</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../../indexPages.css">
+  </head>
+  <body class="projects">
+
+    <h1>Business Plan</h1>
+
+
+    <button class="projects"; onclick = "window.location.href='../index.html';">Projects Index</button>
+  </body>
+</html>

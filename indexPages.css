@@ -41,6 +41,7 @@ h1 {
 
 h2 {
     font-size:45px;
+    
 }
 
 .index h2 {
@@ -58,6 +59,7 @@ h2 {
 
 .projects h2 {
     color: white;
+    text-decoration: underline;
 }
 
 
