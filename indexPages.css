@@ -70,6 +70,10 @@ p {
     text-align: left;
 }
 
+.projects p {
+    margin-right:1200
+}
+
 :root {
     --from: green;
     --to: lime;
