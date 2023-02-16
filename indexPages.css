@@ -24,12 +24,9 @@ h1 {
 
 .essays h1 {
     color: green;
-    border-left-style: dotted;
-    border-right-style: dotted;
-    border-top-style: solid;
+
     border-color:lime;
-    border-width:5px;
-    border-bottom-style:solid;
+
     margin-right: 200px;
     margin-left: 200px; 
 }
@@ -54,7 +51,7 @@ h2 {
 .essays h2 {
     color: red;
     text-align: center;
-    border-style: solid;
+
     margin-left: 200px;
     margin-right: 200px;
 }
@@ -70,6 +67,8 @@ h2 {
 p {
     font-size: 30px;
     text-align: left;
+    margin-left: 400px;
+    margin-right:400px;
 }
 
 .projects p {
