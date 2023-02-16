@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Journals</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../../indexPages.css">
+  </head>
+  <body class="projects">
+
+    <h1>Journals</h1>
+    
+    <br>
+
+    <h2>6 February, 2023</h2>
+    <p>Technical Challenges: We've yet to truly determine what features we are going to implement and as such, we can not even plan what language, what technology, and other technical aspects that we are going to use. Without a clear plan it is going to be impossible to even start coding and without code we have no project. We need to get a plan set in stone within the nect couple of weeks otherwise we risk fighting an uphill battle to finish on time.</p>
+
+    <p>Scheduling Challenges: Without a clear plan of what will be in the project, we have no way of creating a timeline for what we need to finish coding and by what time. We only have around two months to complete the project and we need to get started as soon as possile with the actual creation of a product.</p>
+
+    <p>Interpersonal Challenges: Communication is still an issue. We have no updates on how the planning is coming as all of the concept work is being done by one team member. This team member has done very little to communicate outside of his class and as such, I have very little idea as to what progress they have made. We need to streamline communication and that team member needs to start being more communicative if the process is to go smoothly.</p>
+    
+
+    <br><br>
+    <h2>23-Jan-2023</h2>
+    <p>Technical Challenges: So far I do not really know what we are going to add as far as coding or what knowledge we will need to complete our project. As such, I do not really know where to begin in coding or what I need to go over. The best way to get around this will be to coordinate in a google slides or google doc what we need and what features we will add to the project.</p>
+
+    <p>Scheduling Challenges: Finding time to work together and figure out what we are going to do is difficult given the variety of schedules in our group. Between different class periods, different activities we are involved with, and a lack of cohesion within the group, scheduling time to communicate has proven difficult. We need to get better at communicating with one another and start getting on top of how we are going to handle the time differences in order to be successful.</p>
+
+    <p>Interpersonal Challenges: While there are no problems to be fair, there is still the fact that we have no group cohesion with one another due to our still unfamiliarity with one another and as such a lack of communication. As stated previously in this entry and in others, communication is proving to be the biggest problem in every category. Once we get that under control, the process should streamline itself out a little bit.</p>
+
+
+    
+    <br><br>
+    <h2>16-Jan-2023</h2>
+    <p>Techical Challenges: This week was a slow week and therefore there weren't really any technical challenges to overcome. However, looking forward, I think that the biggest challenge in the near future will be the issue of making sure everyone will be able to push and pull to GitHub. Due to the unpredictable nature of technology, it is likely that we will encounter similar issue to one that plagued our group last week. To solve this, we just need to stay on top of making sure all members' systems are working and if not, get them fixed as quickly as possible as to not lose time.</p>
+
+    <p>Scheduling Challenges: We still have yet to plan out how we are going to divide up work and/or if we are going to get together or work together outside of class. Since we haven't gotten much momentum on our project, this is the hardest thing schedule wise to get going with. We simply need to communicate with each other and lay out what we are going to do.</p>
+
+    <p>Interpersonal Challenges: Again, without much time spent on the project, we have not had any interpersonal issues outside of not getting to know each other. As stated before, many of us do not know each other which will make group cohesion a bit harder than it would be otherwise. We still simply need to get to know one another or at the very least work on the project together and get used to each other's work styles.</p>
+
+
+    <br><br>
+    <h2>9-Jan-2023</h2>
+    <p>Technical Challenges: The first technical challenge has presented itself in the form of some people being unable to pull the README file to add their name and portfolio URL. Those affected will need to fix this issue before we can continue otherwise this challenge will snowball into many worse problems. With even one person unable to make changes anywhere other than in their own terminal, we risk being unable to finish the project as we do not have time to have a person copy them. The team member I know that has this issue will need to seek out teacher aid to fix this issue.</p>
+
+    <p>Scheduling Challenges: So far, the spread of the team across at least three class periods is already proving troublesome. Little communication has been given so far regarding this week's assignment and I can not communicate in person as I am isolated in my own class period being the only member of my group in third period. Luckily, as of the time of writing this entry, a group chat has been made rougly thirty minutes ago which effectively solves the issue for the most part and I do not believe that it will be an issue again for some time if ever.</p>
+
+    <p>Interpersonal Challenges: While there have been no conflicts among team members yet (apart from some mild teasing), but the main interpersonal issue is the fact that many of the team members remain unacquainted with one another. As of this week, I believe our group has had a sixth member added in fifth period bringing the number of people in the group from fifth period up to five of the seven as opposed to four out of six. Who this person is I do not know as I am only familiar with two members of my group and I only currently share a class with one of those two to my current knowledge. I believe that we will either need to get to know each other through the group chat or meet in person either to work or just get to know the group.</p>
+
+
+
+      
+    <br><br>
+    <h2>2-Jan-2023</h2>
+    <p>Software Engineer: This is the most common role associated with a coding project. This is because a software engineer, or software developer, is the person actually writing the code of a project allowing for its mechanics to exist in the first place. While not the only role involved, a software engineer could argue that they are the most important part of a project since without them, there is no one to build the inner workings of the software. It would be like making a clock without someone to make the gears. You would only have a shell and that is why software engineers are crucial to a software related product. This is a role I can probably do pretty well as I find myself to be good at coding. The hardest part for me however would be relearning some aspects of swift and IGIS as I do not believe that my current knowledge of their workings of what I need to complete the project are sufficient as of now. Codermerlin will be a valuable tool here as I can go back to the lessons covering what I need.</p><br>
+    <p>QA Engineer (Quality Assurance): A quality assurance engineer is a member of the team responsible for checking the work done by the software engineer and ensuring that a product is of high enough quality in performance to release to consumers. Their job is to create tests and scenarios that may be applied to software and making sure that it can comply and accomplish any relevant tasks. In addition to testing the performance capabilities of a product, a QA engineer is also responsible for debugging code and suggesting and making changes as necessary. A QA engineer needs to have good communication and problem solving skills as well as the ability to work with a team. This along with Software engineer would be one of the better roles for me. I like the development aspect of a project, not the release and management of it. My biggest hurdle would be learning how to optimize code and learning good debugging methods which I can learn via research and internet tips.</p><br>
+    <p>Project Manager: A project manager is the head of a team during the development of a product or service. They are responsible for everything logistics wise in a project including scheduling, planning, budgeting, and allocation of resources. As such an important role, a project manager must have good leadership and communication as well as a good sense of time management given that they are responsible for deadlines. I think I could handle this role, albeit with some challenges. My biggest of which would be time management. That would be a skill I will need to work on if I decide to take this role.</p><br>
+    <p>Product Manager: Similar to a project manager, the product manager is responsible for overseeing the performance of a product. However, the product manager oversees the product from the perspective of a businessman rather than a developer. A product manager is responsible for identifying a need from a consumer and assigning development of a project to suit those needs. I think I could fill this role but maybe not as well as other team members. My area of adeptness is the development of an idea in terms of coding not the inception of the idea based on outside demand. My biggest challenge would be making suggestions for changes to the product based on guesses of what someone else would want to see. To counter this, I would ask around to others nearby but outside of my project what they would like to see based on the game description.</p><br>
+    <p>Release Engineer: Sharing communication with a software engineer, a release engineer communicates all of the requirements needed for a product to be released. This includes how code will be compiled and the overseeing of deployment of a product. In short, a release engineer manages the delivery of a product developed by a software engineer. I do not think I would be well suited for the role as I feel that while I can understand aspects of the code and their purpose, I do not find myself well suited to organize and optimize anything for full release. As such, my main challenge would be to learn how to organize and compile code for release all together.</p><br>
+
+    <button class="projects"; onclick = "window.location.href='https://codermerlin.com/users/zachary-allen/Digital%20Portfolio/CS-II/Projects/ISP/index.html';">ISP index</button>
