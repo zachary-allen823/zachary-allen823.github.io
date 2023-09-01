@@ -1,11 +1,13 @@
 
 
 .index {
-    background-color: palegreen;
+    background-image: linear-gradient(-135deg, maroon, palegreen, red);
+    background-attachment: fixed;
 }
 
 .essays {
-    background-color: lightblue
+    background-image: linear-gradient(-135deg, lightblue, violet, purple);
+    background-attachment: fixed;
 }
 
 .projects {
@@ -77,48 +79,42 @@ p {
     margin-right:1200
 }
 
-:root {
-    --from: green;
-    --to: lime;
-    --colorFrom: black;
-    --colorTo:black;
-}
 
-@keyframes buttonShift {
-    from {background-color: var(--from); color: var(--colorFrom);}
-    to {background-color: var(--to); color: var(--colorTo);}
-    
-}
 
-button {
+
+
+.buttonIndex {
+    background-color: lightgreen;
     font-size: 20px;
-    animation-name: buttonShift;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    transition-property: height, width;
-    transition-duration: 5s, 5s;
+    transition-duration: 0.4s;
+    border-radius: 10px;
 }
 
-button:hover{
-    width: 150px;
-    height: 60px;
+.buttonIndex:hover {
+    background-color: lime;
 }
 
-.index button{
-    --from: green;
-    --to: lime;
+.buttonEssays {
+    backgroundColor: magenta;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    border-radius: 10px;
 }
 
-.essays button {
-    --from: blue;
-    --to: green;
-    --colorFrom: white;
-    --colorTo: white;
+.buttonEssays:hover {
+    backgroundColor: hotpink;
 }
 
-.projects button {
-    --from: purple;
-    --to: lavender;
-    --colorFrom: white;
+.buttonProjects {
+    background-color: blue;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    border-radius: 10px;
 }
+
+.buttonProjects:hover {
+    background-color: purple;
+    color: white
+}
+
+
