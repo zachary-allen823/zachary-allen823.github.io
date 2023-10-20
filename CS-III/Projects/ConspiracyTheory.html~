@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Conspiracy Theories</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../indexPages.css">
+  </head>
+  <body class="projects">
+
+    <h1>Conspiracy Theories</h1>
+
+    <h2>Basics of Recommendation Algorithms</h2>
+    <p>When we are on the internet, most websites will have certain programs running in the background that make note of what you click on, buy, watch, etc. They then take that information and use it to bring similar videos and products to the forefront

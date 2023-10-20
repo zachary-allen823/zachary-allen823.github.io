@@ -95,14 +95,14 @@ p {
 }
 
 .buttonEssays {
-    backgroundColor: magenta;
+    background-color: magenta;
     font-size: 20px;
     transition-duration: 0.4s;
     border-radius: 10px;
 }
 
 .buttonEssays:hover {
-    backgroundColor: hotpink;
+    background-color: hotpink;
 }
 
 .buttonProjects {
